@@ -7,9 +7,4 @@ Il aime voyager. Cet été il est parti pendant deux mois sur la mer avec son pe
 Il a fait plusieurs pauses dans différents pays.
 
 
-
-
-
-
-
-"sans-faute"
+/* Ceci est un exercice pour nous apprendre a gérer les conflits avec VScode et github */
